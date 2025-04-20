@@ -18,7 +18,7 @@ import {
   YesNo,
   NextButton,
   BackButton,
-} from "@/components";
+} from "@/components/formMultiSteps";
 
 export type ComponentsOperations = {
   jsx$screen: {
